@@ -1,0 +1,21 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Criando CRUD de Qualidade",
+  "main": "crud.js",
+  "scripts": {
+    "start:crud": "npx ts-node crud.ts",
+    "dev:crud": "nodemon --ext ts,tsx --exec \"npm run start:crud\"", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.3.2",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
