@@ -1,1 +1,24 @@
-Hoje eu vou fazer X222 com:crud
+{
+  "todos": [
+    {
+      "date": "2023-06-28T11:19:41.686Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "date": "2023-06-28T11:19:41.686Z",
+      "content": "2 TODO",
+      "done": false
+    },
+    {
+      "date": "2023-06-28T11:19:41.687Z",
+      "content": "3 TODO",
+      "done": false
+    },
+    {
+      "date": "2023-06-28T11:19:41.687Z",
+      "content": "4 TODO",
+      "done": false
+    }
+  ]
+}
